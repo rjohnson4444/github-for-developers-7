@@ -4,3 +4,4 @@
 * I'm from Aurora, CO
 * I love to play basketball
 * My favorite color is Black.
+* I am currently living in Aurora, CO
